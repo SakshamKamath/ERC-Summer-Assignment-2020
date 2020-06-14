@@ -10,3 +10,6 @@ I have pasted the links of the public tinkercad files of the simulated Arduino C
 ERC Summer Assignment 2020 . I have also inserted the files of the schematic and the board of the Eagle file .
 
 I have also attempted one of the question(extra) from 4.3 AUTOMATION AND CONTROL 4.3.1.1 
+The file c_traj(1) is the python file of the publisher node. 
+erc.bag is the rosbag
+rosgraph is the rqt_graph screenshot
